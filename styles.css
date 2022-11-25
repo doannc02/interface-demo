@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #02021E;
+    border-top: 1px solid white;
+}
+
+.nghenhac {
+    width: 962px;
+    height: auto;
+    border: 1px solid #CC3300;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.imgbanner {
+    height: 140px;
+}
+
+.title-banner {
+    margin: 20px 15px;
+}
+
+.title1 {
+    color: #CCFF99;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.title2 {
+    color: #FF9933;
+    font-size: 12px;
+    word-spacing: 10px;
+    letter-spacing: 4px;
+    margin-left: 125px;
+}
+
+.menu {
+    display: flex;
+    border-top: 1px solid #CC3300;
+    background: #003366;
+    height: 2em;
+    border-bottom: 1px solid #CC3300;
+}
+
+.list-menu1 {
+    height: 31px;
+    border-right: 1px solid #CC3300;
+    padding: 5px 0 0 0;
+}
+
+.list-menu1 a {
+    text-decoration: none;
+    margin: 0 10px 0 10px;
+    color: #CCFF99;
+
+}
+
+.sub-thv {
+    margin: 2em 0 10px 25px;
+    color: #CC3300;
+}
+
+.dk-tv {
+    border: 1px solid #3366CC;
+    border-radius: 15px;
+    margin: 0 140px 30px 140px;
+}
+
+th#hvt {
+    padding-left: 100px;
+}
+
+.table-1 {
+    padding-top: 20px;
+}
+
+#name {
+    width: 270px;
+}
+
+th#dt {
+    padding-left: 99px;
+}
+
+th#emails {
+    padding-left: 129px;
+}
+
+#mail {
+    width: 215px;
+}
+
+th#emaill2 {
+    padding-left: 2px;
+}
+
+th#sex {
+    padding-left: 108px;
+}
+
+th#sex-2 {
+    padding-left: 2px;
+}
+
+#pass_w {
+    padding-left: 103px;
+}
+
+#und-pass_w {
+    padding-left: 42px;
+}
+
+button {
+    margin-left: 198px;
+    margin-bottom: 20px;
+    padding: 0 3px 0 3px;
+}
+
+table {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+th {
+    padding-left: 20px;
+    color: #3366CC
+}
+
+.footer-m {
+    border-top: 1px solid #CC3300;
+    padding-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+.title-footer p {
+    color: #CCC;
+    font-size: 11px;
+    text-align: center;
+}
+
+.dongcuoi {
+    display: flex;
+    justify-content: center;
+    color: #CCC;
+}
+
+.dongcuoi span {
+    margin-right: 30px;
+}
